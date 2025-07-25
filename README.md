@@ -120,7 +120,37 @@
 </div><h2 align="center" style="color: #fca311; background-color: #14213d; padding: 15px; border-radius: 8px; margin: 20px 0;">🌌 Beyond the Code</h2>
 
 <div align="center" style="background-color: #000000; color: #e5e5e5; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <p>When I'm not coding, you can find me diving into different worlds. I'm a huge fan of animes like <strong style="color: #fca311;">Naruto</strong> and <strong style="color: #fca311;">That Time I Got Reincarnated as a Slime</strong>. I also enjoy a good game of <strong style="color: #fca311;">Magic: The Gathering</strong>, traveling through time and space with <strong style="color: #fca311;">Doctor Who</strong>, and vibing to the sounds of <strong style="color: #fca311;">BaianaSystem</strong>.</p>
+  <p style="font-size: 18px; margin-bottom: 30px;">When I'm not coding, you can find me diving into different worlds...</p>
+  
+  <table align="center" style="background-color: #000000; border: none;">
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="https://media.giphy.com/media/VbzmrabLQFE8VbQY5y/giphy.gif" width="120" style="border-radius: 8px; border: 3px solid #fca311;" />
+        <br><strong style="color: #fca311;">Naruto</strong>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://media.giphy.com/media/LpWbOLo5gLI4g8dM0I/giphy.gif" width="120" style="border-radius: 8px; border: 3px solid #fca311;" />
+        <br><strong style="color: #fca311;">Slime Anime</strong>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="120" style="border-radius: 8px; border: 3px solid #fca311;" />
+        <br><strong style="color: #fca311;">Magic: The Gathering</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="120" style="border-radius: 8px; border: 3px solid #fca311;" />
+        <br><strong style="color: #fca311;">Doctor Who</strong>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="https://media.giphy.com/media/l2SpONKRLKMpXb5Xa/giphy.gif" width="120" style="border-radius: 8px; border: 3px solid #fca311;" />
+        <br><strong style="color: #fca311;">BaianaSystem</strong>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <!-- Empty cell for balance -->
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center" style="background-color: #e5e5e5; padding: 20px; border-radius: 10px; margin: 20px 0;">
